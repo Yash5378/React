@@ -15,10 +15,10 @@ function App() {
     <>
       <h1 className="bg-green-400 text-black rounded-xl mb-4">Tailwind Test</h1>
       <Card username="somechannel" btntext="visit me->" />
-      <Card username="gunjan" btntext="click me->" />
-      <Card username="gunjan" btntext="click me->" />
-      <Card username="gunjan" btntext="click me->" />
-      <Card username="gunjan" btntext="click me->" />
+      <Card username="yeeho" btntext="click me->" />
+      <Card username="yeeho" btntext="click me->" />
+      <Card username="yeeho" btntext="click me->" />
+      <Card username="yeeho" btntext="click me->" />
     </>
   );
 }
